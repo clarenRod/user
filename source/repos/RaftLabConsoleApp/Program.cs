@@ -24,7 +24,7 @@ while (flag)
             if (int.TryParse(UserId, out int Id))
             {
                 User Single = await obj.getUserDetails(Id);
-                if(Single.Id == 0)
+                if(Single == null)
                 {
                     Console.WriteLine("No record has been found for the UserId " + Id);
                 }

@@ -3,6 +3,8 @@ C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\RaftLabConsoleApp.
 C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\RaftLabConsoleApp.runtimeconfig.json
 C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\RaftLabConsoleApp.dll
 C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\RaftLabConsoleApp.pdb
+C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
@@ -24,11 +26,10 @@ C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.AssemblyInfo.cs
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.sourcelink.json
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabC.A7D10DC4.Up2Date
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.dll
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\refint\RaftLabConsoleApp.dll
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.pdb
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\RaftLabConsoleApp.genruntimeconfig.cache
 C:\Users\user\source\repos\RaftLabConsoleApp\obj\Debug\net8.0\ref\RaftLabConsoleApp.dll
-C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\user\source\repos\RaftLabConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
